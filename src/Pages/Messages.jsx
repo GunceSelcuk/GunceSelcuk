@@ -17,6 +17,7 @@ const Messages = () => {
           <div key={index} className="message">
             <pre>{item.message}</pre>
             <div className="message-user">{item.user}</div>
+            <div/>
           </div>
         ))}
       </div>
