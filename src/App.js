@@ -10,6 +10,7 @@ import Musics from './Pages/Musics.jsx';
 import Games from "./Pages/Games.jsx";
 import Poems from './Pages/Poems.jsx';
 import Gift from './Pages/Gift.jsx';
+import Agreement from './Pages/Agreement.jsx';
 
 function App() {
   return (
@@ -35,6 +36,7 @@ const Main = () => (
       <Route path="/GunceSelcuk/Games" element={<Games />} />
       <Route path="/GunceSelcuk/Poems" element={<Poems />} />
       <Route path="/GunceSelcuk/Gifts" element={<Gift />} />
+      <Route path="/GunceSelcuk/Agreement" element={<Agreement />} />
     </Routes>
   </main>
 );

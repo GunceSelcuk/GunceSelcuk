@@ -20,6 +20,7 @@ const Nav = () => (
       <li><Link to="/GunceSelcuk/Games">Oyunlar</Link></li>
       <li><Link to="/GunceSelcuk/Poems">Şiirler</Link></li>
       <li><Link to="/GunceSelcuk/Gifts">Süpriz</Link></li>
+      <li><Link to="/GunceSelcuk/Agreement">Sözleşme</Link></li>
     </ul>
     <div className="search-bar">
       <input type="text" placeholder="Arama yap..." />
