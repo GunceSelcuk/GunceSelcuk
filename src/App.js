@@ -29,12 +29,12 @@ function App() {
 const Main = () => (
   <main>
     <Routes>
-      <Route path="/guncedogdu/" element={<Home/>} />
-      <Route path="/guncedogdu/Messages" element={<Messages />} />
-      <Route path="/guncedogdu/Musics" element={<Musics />} />
-      <Route path="/guncedogdu/Games" element={<Games />} />
-      <Route path="/guncedogdu/Poems" element={<Poems />} />
-      <Route path="/guncedogdu/Gifts" element={<Gift />} />
+      <Route path="/GunceSelcuk/" element={<Home/>} />
+      <Route path="/GunceSelcuk/Messages" element={<Messages />} />
+      <Route path="/GunceSelcuk/Musics" element={<Musics />} />
+      <Route path="/GunceSelcuk/Games" element={<Games />} />
+      <Route path="/GunceSelcuk/Poems" element={<Poems />} />
+      <Route path="/GunceSelcuk/Gifts" element={<Gift />} />
     </Routes>
   </main>
 );
