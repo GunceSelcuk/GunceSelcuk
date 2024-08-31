@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GunceSelcuk/static/css/main.6b9de044.css",
-    "main.js": "/GunceSelcuk/static/js/main.a72f332c.js",
+    "main.css": "/GunceSelcuk/static/css/main.3a2e57cc.css",
+    "main.js": "/GunceSelcuk/static/js/main.f02c6d85.js",
     "static/js/453.bff83f84.chunk.js": "/GunceSelcuk/static/js/453.bff83f84.chunk.js",
     "index.html": "/GunceSelcuk/index.html",
-    "main.6b9de044.css.map": "/GunceSelcuk/static/css/main.6b9de044.css.map",
-    "main.a72f332c.js.map": "/GunceSelcuk/static/js/main.a72f332c.js.map",
+    "main.3a2e57cc.css.map": "/GunceSelcuk/static/css/main.3a2e57cc.css.map",
+    "main.f02c6d85.js.map": "/GunceSelcuk/static/js/main.f02c6d85.js.map",
     "453.bff83f84.chunk.js.map": "/GunceSelcuk/static/js/453.bff83f84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b9de044.css",
-    "static/js/main.a72f332c.js"
+    "static/css/main.3a2e57cc.css",
+    "static/js/main.f02c6d85.js"
   ]
 }
